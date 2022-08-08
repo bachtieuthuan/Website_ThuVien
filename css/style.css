@@ -315,3 +315,11 @@ position: absolute;top: 0;
 .gioithieu .content p.gachdaudong{
     text-indent: 80px;
 }
+table tr th{
+    text-align: center;
+    padding: 5px;
+}
+table tr td{
+    text-align: center;
+    padding: 10px 20px;
+}
